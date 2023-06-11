@@ -19,13 +19,13 @@
 
 ## 🔥 My stats
 
-![Alanna's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alannagenin&show_icons=true&theme=dark&locale=en&layout=normal)
+![Alanna's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alannagenin&show_icons=true&theme=dark&hide_border=true&locale=en&layout=normal)
 
 My top languages mainly reflect those used for my academic projects.
 
-![Alanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=alannagenin&show_icons=true&theme=dark&locale=en&count_private=true&custom_title=My%20GitHub%20stats)
+![Alanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=alannagenin&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&custom_title=My%20GitHub%20stats)
 
-[![Alanna's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alannagenin&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Alanna's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alannagenin&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Bye bye!
 
