@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior data engineer</h3>
 
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alannagenin&label=Profile%20views&color=0e75b6&style=flat" alt="alannagenin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alannadevgen&label=Profile%20views&color=0e75b6&style=flat" alt="alannadevgen" /> </p>
 -->
 
 - 🔭 I’m currently working on **deploying a Django app**
@@ -19,19 +19,19 @@
 
 ## 🔥 My stats
 
-![Alanna's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alannagenin&show_icons=true&theme=dark&hide_border=true&locale=en&layout=normal)
+![Alanna's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alannadevgen&show_icons=true&theme=dark&hide_border=true&locale=en&layout=normal)
 
 My top languages mainly reflect those used for my academic projects.
 
-![Alanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=alannagenin&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&custom_title=My%20GitHub%20stats)
+![Alanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=alannadevgen&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&custom_title=My%20GitHub%20stats)
 
-[![Alanna's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alannagenin&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Alanna's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alannadevgen&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Bye bye!
 
 <p align="center"> 
    Visitors Count<br>
-   <img src="https://profile-counter.glitch.me/alannagenin/count.svg" />
+   <img src="https://profile-counter.glitch.me/alannadevgen/count.svg" />
  </p>
 
 Thanks for visiting my profile, see you soon! 👋
