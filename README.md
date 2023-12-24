@@ -19,9 +19,11 @@
 
 ## 🔥 My stats
 
+<!--
 ![Alanna's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alannadevgen&show_icons=true&theme=dark&hide_border=true&locale=en&layout=normal)
 
 My top languages mainly reflect those used for my academic projects.
+-->
 
 ![Alanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=alannadevgen&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&custom_title=My%20GitHub%20stats)
 
