@@ -2,7 +2,7 @@
 
 ## About me 👩‍💻
 
-I am a passionate Junior Data Engineer based in Paris, France. I am currently working at [**@LittleBigCode**](https://littlebigcode.fr) as a Data Engineer where I am developing the [**Graal System**](https://graal.systems) solution. I graduated from [**@ENSAI**](https://ensai.fr) in 2023, specialising in Data Science and Data Engineering. I’m currently learning **how to develop cloud-oriented solutions**.
+I am a passionate Junior Data Engineer based in Paris, France. I am currently working at [**@LittleBigCode**](https://littlebigcode.fr) as a Data Engineer where I am developing the [**@Graal Systems**](https://graal.systems) solution. I graduated from [**@ENSAI**](https://ensai.fr) in 2023, specialising in Data Science and Data Engineering. I’m currently learning **how to develop cloud-oriented solutions**.
 
 ## 🌐 Connect with me
 
