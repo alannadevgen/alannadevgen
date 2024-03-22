@@ -44,10 +44,11 @@ My training at ENSAI and my experience at LittleBigCode have allowed me to acqui
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 
-**CI/CD** : ArgoCD, Tekton
+**CI/CD** : ArgoCD, Tekton, GitHub Actions
 
 <a href="https://argoproj.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="40" height="40"/></a>
 <a href="https://tekton.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/tekton.svg" alt="tekton" width="40" height="40"/></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></a>
 
 <!-- VSCode, PyCharm, IntelliJ, Eclipse, RStudio, Tableau, Power BI, Microsoft Office, Google Suite, Linux, Windows, MacOS-->
 <!--<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>-->
