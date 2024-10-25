@@ -2,7 +2,7 @@
 
 ## About me 👩‍💻
 
-I am a passionate Junior Data Engineer based in Paris, France. I am currently working at [**@LittleBigCode**](https://littlebigcode.fr) as a Data Engineer where I am developing the [**@Graal Systems**](https://graal.systems) solution. I graduated from [**@ENSAI**](https://ensai.fr) in 2023, specialising in Data Science and Data Engineering. I’m currently learning **how to develop cloud-oriented solutions**.
+I am a passionate Junior Data Engineer based in Paris, France. I am currently working at [**@LittleBigCode**](https://littlebigcode.fr) as a Data Engineer. I graduated from [**@ENSAI**](https://ensai.fr) in 2023, specialising in Data Science and Data Engineering. I’m currently learning **how to develop cloud-oriented solutions**.
 
 ## 🌐 Connect with me
 
@@ -22,7 +22,6 @@ My training at ENSAI and my experience at LittleBigCode have allowed me to acqui
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a>
 
-
 **Frameworks** : Django, Flask, FastAPI
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
@@ -31,24 +30,36 @@ My training at ENSAI and my experience at LittleBigCode have allowed me to acqui
 
 **Databases** : PostgreSQL, Cassandra
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" height="40"/></a>
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" alt="cassandra" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="40"/></a>
 
-**Tools** : Docker, Git, GitHub, GitLab, Grafana, Prometheus, Kubernetes
+**Version control** : Git, GitHub, GitLab
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/></a>
+
+**Build** : Docker, Kubernetes
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+
+**Monitoring** : Grafana, Prometheus
+
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 
 **CI/CD** : ArgoCD, Tekton, GitHub Actions
 
 <a href="https://argoproj.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="40" height="40"/></a>
 <a href="https://tekton.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/tekton.svg" alt="tekton" width="40" height="40"/></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></a>
+
+**CLoud** : Google Cloud Platform
+
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google cloud" height="40"/></a>
+
 
 <!-- VSCode, PyCharm, IntelliJ, Eclipse, RStudio, Tableau, Power BI, Microsoft Office, Google Suite, Linux, Windows, MacOS-->
 <!--<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>-->
