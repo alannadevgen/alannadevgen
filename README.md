@@ -28,7 +28,7 @@ My training at ENSAI and my experience at LittleBigCode have allowed me to acqui
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="40" height="40"/></a>
 
-**Databases** : PostgreSQL, Cassandra
+**Databases** : PostgreSQL, Apache Cassandra, MongoDB
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" height="40"/></a>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" alt="cassandra" height="40"/></a>
