@@ -71,7 +71,7 @@ As a music addict, I love discovering new tunes. I am currently working on an ex
 Have a look at the song I'm currently listening to:
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fg2ntukyb3ep4pt6a7tk2fapsq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Alanna's currently playing song"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fg2ntukyb3ep4pt6a7tk2fapsq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Alanna's currently playing song"/>
 </p>
 
 ## 📊 GitHub Stats
