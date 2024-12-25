@@ -2,31 +2,25 @@
 
 ## About me 👩‍💻
 
-I am a passionate Junior Data Engineer based in Paris, France. I am currently working at [**@LittleBigCode**](https://littlebigcode.fr) as a Data Engineer. I graduated from [**@ENSAI**](https://ensai.fr) in 2023, specialising in Data Science and Data Engineering. I’m currently learning **how to develop cloud-oriented solutions**.
-
-## 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/alanna-devlin-genin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanna-devlin-genin" height="30" width="40" /> Alanna DEVLIN GENIN</a>
-</p>
+I am a passionate Data Engineer based in Paris, France. I am currently working at [**@LittleBigCode**](https://littlebigcode.fr) as a Data Engineer. I graduated from [**@ENSAI**](https://ensai.fr) in 2023, specialising in Data Science and Data Engineering.
 
 ## :hammer_and_wrench: Languages and Tools
 
 My training at ENSAI and my experience at LittleBigCode have allowed me to acquire a solid knowledge of the following tools and languages:
 
-**Programming Languages** : Python, SQL, Bash, Java, Scala, R
+**Programming Languages** : Python, SQL, Bash, Java, Scala
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a>
 
-**Frameworks** : Django, Flask, FastAPI
+[//]: # (**Frameworks** : Django, Flask, FastAPI)
+**Frameworks** : FastAPI, Flask
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+[//]: # (<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>)
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="fastapi" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
 
 **Databases** : PostgreSQL, Apache Cassandra, MongoDB
 
@@ -56,7 +50,7 @@ My training at ENSAI and my experience at LittleBigCode have allowed me to acqui
 <a href="https://tekton.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/tekton.svg" alt="tekton" width="40" height="40"/></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></a>
 
-**CLoud** : Google Cloud Platform
+**Cloud** : Google Cloud Platform ([Certified Professional Data Engineer](https://www.credly.com/badges/66af62f3-a7d1-4f1d-8ed2-64c8a4d64e43))
 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google cloud" height="40"/></a>
 
@@ -66,7 +60,9 @@ My training at ENSAI and my experience at LittleBigCode have allowed me to acqui
 
 ## :musical_score: Music
 
-As a music addict, I love discovering new tunes. I am currently working on an exciting new music quiz. Stay tuned! You can see the progress of this project [here](https://github.com/alannadevgen/quizzify). The aim is to create a web application that allows users to play a quiz based on their Spotify listening history. The application will be developed using the Spotify API and the FastAPI framework.
+As a music addict, I love discovering new tunes. I am currently working on an exciting new music quiz. Stay tuned!
+
+You can see the progress of this project [here](https://github.com/alannadevgen/quizzify). The aim is to create a web application that allows users to play a quiz based on their Spotify listening history. The application is developed using the Spotify API and the FastAPI framework.
 
 Have a look at the song I'm currently listening to:
 
@@ -93,6 +89,9 @@ My top languages mainly reflect those used for my academic projects.
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat. I'm always open to connecting with fellow developers and enthusiasts!
 
+<p align="left">
+<a href="https://linkedin.com/in/alanna-devlin-genin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanna-devlin-genin" height="30" width="40" /> LinkedIn</a>
+</p>
 
 ## Bye bye!
 
